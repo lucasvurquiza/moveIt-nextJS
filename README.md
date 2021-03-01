@@ -31,4 +31,4 @@
 
 ### Para acessar:
 
-#### `[Move.IT](https://moveit-next-js-f6c7248n6-lucasvurquiza.vercel.app/)`
+#### [Move.IT](https://moveit-next-js-f6c7248n6-lucasvurquiza.vercel.app/)
